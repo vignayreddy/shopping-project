@@ -14,4 +14,3 @@
 | O211     | Meera Joshi   | Desk Lamp            | 1        | ₹1,299       | 2026-05-20 | Paid           | Out for Delivery |
 | O212     | Karthik Iyer  | Wireless Keyboard    | 1        | ₹3,499       | 2026-05-21 | Pending        | Processing       |
 | O213     | Sunita Kaur   | USB-C Hub            | 2        | ₹1,198       | 2026-05-22 | Paid           | Shipped          |
-| O211     | Meera Joshi   | Desk Lamp            | 1        | ₹1,299       | 2026-05-20 | Paid           | Out for Delivery |
