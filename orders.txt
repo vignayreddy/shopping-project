@@ -1,0 +1,12 @@
+| Order ID | Customer Name | Product Name         | Quantity | Total Amount | Order Date | Payment Status | Delivery Status  |
+| -------- | ------------- | -------------------- | -------- | ------------ | ---------- | -------------- | ---------------- |
+| O201     | Rahul Sharma  | Wireless Mouse       | 2        | ₹1,598       | 2026-05-10 | Paid           | Delivered        |
+| O202     | Priya Reddy   | Smart Watch          | 1        | ₹2,999       | 2026-05-11 | Paid           | Shipped          |
+| O203     | Arjun Kumar   | Gaming Keyboard      | 1        | ₹2,199       | 2026-05-12 | Pending        | Processing       |
+| O204     | Sneha Patel   | Laptop Backpack      | 3        | ₹3,597       | 2026-05-13 | Paid           | Delivered        |
+| O205     | Kiran Verma   | LED Monitor          | 1        | ₹8,999       | 2026-05-14 | Paid           | Out for Delivery |
+| O206     | Anjali Singh  | Running Shoes        | 2        | ₹6,998       | 2026-05-15 | Failed         | Cancelled        |
+| O207     | Vivek Rao     | Mobile Charger       | 4        | ₹2,796       | 2026-05-16 | Paid           | Delivered        |
+| O208     | Neha Gupta    | Office Chair         | 1        | ₹6,999       | 2026-05-17 | Paid           | Processing       |
+| O209     | Ramesh Naidu  | Bluetooth Headphones | 2        | ₹2,998       | 2026-05-18 | Pending        | Shipped          |
+| O210     | Pooja Mehta   | Water Bottle         | 5        | ₹2,495       | 2026-05-19 | Paid           | Delivered        |

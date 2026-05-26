@@ -1,0 +1,12 @@
+| Product ID | Product Name         | Category       | Brand      | Price  | Stock | Rating | Description                                           |
+| ---------- | -------------------- | -------------- | ---------- | ------ | ----- | ------ | ----------------------------------------------------- |
+| P101       | Wireless Mouse       | Electronics    | Logitech   | ₹799   | 45    | 4.5    | Ergonomic wireless mouse with USB receiver            |
+| P102       | Bluetooth Headphones | Electronics    | boAt       | ₹1,499 | 30    | 4.3    | Noise-isolation headphones with deep bass             |
+| P103       | Smart Watch          | Wearables      | Noise      | ₹2,999 | 20    | 4.4    | Fitness tracking smartwatch with heart monitor        |
+| P104       | Gaming Keyboard      | Accessories    | Redragon   | ₹2,199 | 15    | 4.6    | RGB mechanical keyboard for gaming                    |
+| P105       | Laptop Backpack      | Bags           | Skybags    | ₹1,199 | 50    | 4.2    | Water-resistant backpack with laptop compartment      |
+| P106       | Water Bottle         | Home & Kitchen | Milton     | ₹499   | 80    | 4.1    | Stainless steel insulated water bottle                |
+| P107       | Running Shoes        | Footwear       | Adidas     | ₹3,499 | 25    | 4.5    | Lightweight running shoes with soft cushioning        |
+| P108       | LED Monitor          | Electronics    | Samsung    | ₹8,999 | 10    | 4.7    | 24-inch Full HD LED monitor                           |
+| P109       | Mobile Charger       | Accessories    | Mi         | ₹699   | 60    | 4.4    | Fast charging USB Type-C adapter                      |
+| P110       | Office Chair         | Furniture      | Green Soul | ₹6,999 | 12    | 4.6    | Adjustable ergonomic office chair with lumbar support |
