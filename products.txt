@@ -10,3 +10,7 @@
 | P108       | LED Monitor          | Electronics    | Samsung    | ₹8,999 | 10    | 4.7    | 24-inch Full HD LED monitor                           |
 | P109       | Mobile Charger       | Accessories    | Mi         | ₹699   | 60    | 4.4    | Fast charging USB Type-C adapter                      |
 | P110       | Office Chair         | Furniture      | Green Soul | ₹6,999 | 12    | 4.6    | Adjustable ergonomic office chair with lumbar support |
+| P111       | Ceramic Dinner Set   | Home & Kitchen | Cello      | ₹2,299 | 40    | 4.4    | 16-piece porcelain dinner set with stylish design     |
+| P112       | DSLR Camera          | Electronics    | Canon      | ₹29,999| 8     | 4.8    | 24.1MP DSLR camera with zoom lens                     |
+| P113       | Backpack Laptop Sleeve | Accessories | AmazonBasics| ₹899  | 70    | 4.3    | Neoprene laptop sleeve with shock absorption          |
+| P114       | Yoga Mat             | Sports         | Decathlon  | ₹999   | 55    | 4.5    | Non-slip yoga mat with comfortable cushioning         |
